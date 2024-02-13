@@ -40,8 +40,9 @@ dependencies:
   http: ^1.1.2
   cached_network_image: ^3.3.1
   webview_flutter: ^3.0.4
-  mocktail: ^1.0.3
   flutter_launcher_icons: ^0.13.1
+  flutter_app_icons: ^0.0.9
+
 
   
    
@@ -49,7 +50,6 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_icons:
   
   flutter_lints: ^3.0.0
 
@@ -78,7 +78,7 @@ flutter:
     - images/londonRed.jpg
     - images/presidents.jpg
     - images/world.jpg
-    - icons/flutterNews.jpg
+    - icons/app_news.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
