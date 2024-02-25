@@ -4,9 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![appNews](https://github.com/FrenchCodingMan/news_flutter/assets/159005995/f5447d1c-352e-4ed0-9e13-a7a49ddf8870)
 
-A few resources to get you started if this is your first Flutter project:
+I USED NEWS API TO INSERT MY CONTENT.
+I USED A CAROUSEL SLIDER FOR THE BREAKING NEWS PART AND 
+I USED ELEVATION TO GIVE A NICER PREVIEW FOR THE TRENDING NEWS.
+
+i'm stuck with appbundle to be able to publish my app on playstore
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
